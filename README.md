@@ -1,4 +1,3 @@
-# CSE210Assign
 ### This is the coursework of CSE210 in XJTLU which used to practice the skills of object-oriented-programming
 ### Maybe some problems will occur during running
 
